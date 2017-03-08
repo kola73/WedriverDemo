@@ -10,7 +10,7 @@ public class AssertTest {
     @Test
     public void assertDemo1() {
         String a = "1234";
-        String b = "1234";
+        String b = "12345";
         Assert.assertEquals(a, b);
     }
 
